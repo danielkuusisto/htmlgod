@@ -1,2 +1,2 @@
 # htmlgod
-idk
+Hello this is my very first webpage repository.
